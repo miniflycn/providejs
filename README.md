@@ -1,6 +1,8 @@
 providejs
 =========
 
+> parallel load js before requirejs onload.
+
 the first implementation:
 
 ```
